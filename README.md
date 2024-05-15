@@ -1,7 +1,7 @@
 
   # Hello👋, I'm Aryansh Kumar!
 
-I'm a passionate software developer with a keen interest in machine learning. Currently on a journey of continuous learning, I'm exploring the vast and dynamic field of artificial intelligence. I find joy in crafting intelligent and efficient solutions that leverage the power of machine learning to solve real-world problems.
+I'm a passionate software developer with a keen interest in machine learning. Currently on a journey of continuous learning, I'm exploring the vast and dynamic field of artificial intelligence and Core Electronics. I find joy in crafting intelligent and efficient solutions that leverage the power of machine learning to solve real-world problems and deep dive into core of how it implemented and core Electroics.
 
 🔍 What I'm into:
 -
@@ -11,9 +11,11 @@ I'm a passionate software developer with a keen interest in machine learning. Cu
 
 - Open Source Contributions: I believe in the collaborative spirit of open source. Actively contributing to projects that make a positive impact is my way of giving back to the community.
 
+- Core Electronics: I have interest in Digital Electronics and also exploring Analog Electronics.
+
 🌱 Currently Learning:
 -
-I'm on a perpetual journey of growth. Currently, I'm honing my skills in web development, aiming to expand my expertise and contribute to cutting-edge projects.
+I'm on a perpetual journey of growth. Currently, I'm honing my skills in web development, aiming to expand my expertise and contribute to cutting-edge projects ,also in core i am exploring Analog Electronics and STA in digital Electronics.
 
 💞 Looking to Collaborate On:
 -
