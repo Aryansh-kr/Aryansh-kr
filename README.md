@@ -15,7 +15,7 @@ I'm a passionate software developer with a keen interest in machine learning. Cu
 
 🌱 Currently Learning:
 -
-I'm on a perpetual journey of growth. Currently, I'm honing my skills in web development, aiming to expand my expertise and contribute to cutting-edge projects ,also in core i am exploring Analog Electronics and STA in digital Electronics.
+I'm on a perpetual journey of growth. Currently, I'm honing my skills in web development and Deep Learning, aiming to expand my expertise and contribute to cutting-edge projects ,also in core i am exploring Analog Electronics and STA in digital Electronics.
 
 💞 Looking to Collaborate On:
 -
